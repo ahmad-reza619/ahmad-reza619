@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/HungryDev1)
 - ⚡ Fun fact: You can create a triangle with just css :eyes: (actually i just learned this too)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ahmad-reza619)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
