@@ -1,4 +1,5 @@
 # Hi there I'm Ahmad Reza 👋
+![Profile views](https://gpvc.arturio.dev/ahmad-reza619)  
 
 <!--
 **ahmad-reza619/ahmad-reza619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You can create a triangle with just css :eyes: (actually i just learned this too)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ahmad-reza619)](https://github.com/LordDashMe/github-contribution-stats/)
-
-
