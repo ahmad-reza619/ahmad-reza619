@@ -1,6 +1,4 @@
 # Hi there I'm Ahmad Reza 👋
-![Profile views](https://gpvc.arturio.dev/ahmad-reza619)  
-
 <!--
 **ahmad-reza619/ahmad-reza619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
