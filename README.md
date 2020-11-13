@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with none, i do my thing myself :smile:
 - 💬 Ask me about Javascript, as it's my favorite language
 - 📫 How to reach me: [Twitter](https://twitter.com/HungryDev1)
-- ⚡ Fun fact: You can create a triangle with just css :eyes: (actually i just learned this too)
+- ⚡ Fun fact: Onion will cry if i cut them
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ahmad-reza619)](https://github.com/LordDashMe/github-contribution-stats/)
