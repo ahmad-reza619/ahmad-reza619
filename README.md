@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript, as it's my favorite language
 - 📫 How to reach me: [Twitter](https://twitter.com/HungryDev1)
 - ⚡ Fun fact: when i cut onion, the onion cries
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ahmad-reza619)](https://github.com/LordDashMe/github-contribution-stats/)
