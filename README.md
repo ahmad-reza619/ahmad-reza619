@@ -5,10 +5,11 @@
 Here are some ideas to get you started:
 -->
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20a%20Frontend%20Knight&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-- 🔭 I’m currently working on [Assist ID](https://assist.id)
-- 🌱 I’m currently learning Typescript, Angular, Gatsby Next JS, and much more. I wonder if i ever done learning :thinking:
-- 👯 I’m looking to collaborate on none, busy with my work
-- 🤔 I’m looking for help with none, i do my thing myself :smile:
-- 💬 Ask me about Javascript, as it's my favorite language
-- 📫 How to reach me: [Twitter](https://twitter.com/HungryDev1)
-- ⚡ Fun fact: when i cut onion, the onion cries
+
+### Who am i
+I'm a Frontend kinda fullstackish Dev at [Assist ID](http://assist.id/) 😀, I code with React mostly. A JS performance freak. I love to tweak stuff trying out what algorithm is best for performance. I live at Pekanbaru, Indonesia and i snack on [Chitatos](http://www.chitato.com/)
+
+### Contact Me
+- Twitter - [@HungryDev1](https://twitter.com/HungryDev1)
+- Instagram - [@ahmad.reza39](https://www.instagram.com/ahmad.reza39/)
+- Website - [ahmadreza.site](https://ahmadreza.site)
