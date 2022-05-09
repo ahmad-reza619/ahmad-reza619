@@ -13,5 +13,3 @@ I'm a Frontend Dev at [Assist ID](http://assist.id/), I code with React mostly. 
 - Twitter - [@HungryDev1](https://twitter.com/HungryDev1)
 - Instagram - [@ahmad.reza39](https://www.instagram.com/ahmad.reza39/)
 - Website - [ahmadreza.site](https://ahmadreza.site)
-
-![Metrics](https://github.com/ahmad-reza619/ahmad-reza619/blob/master/github-metrics.svg)
